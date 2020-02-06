@@ -29,3 +29,26 @@ TO BECOME A PROFESSIONAL WEBDEV CREATING AWESOME APPS
 | JS frameworks | React + Angular |
 | DB | PostgreSQL |
 | Backend | Java Spring |
+
+## **Experience**
+
+<div style="display:flex;flex-wrap:wrap;">
+
+<div style="flex:0 50%">
+	<a href="https://bit.ly/2meuYJr">BlackJack JS App</a><sup> codepen</sup>
+	<p>Based on a classic card game, this app was designed in raw JS with no libraries. It manipulated DOM elements to output app ont an HTML canvas. Relies on both event handling and the use of objects.</p>
+</div>
+
+<div style="flex:0 50%">
+	<a href="https://bit.ly/2lUlSS2">Console Calculator in Java</a><sup> github</sup>
+	<p>A console Java calculator that is able to work both in Roman and Arabic numerals, if necessary converting between them. Uses objects, exceptions and standard IO.</p>
+</div>
+
+<div style="flex:0 50%">
+	<a href="https://bit.ly/2miAgUl">HTML/CSS Click and Drag</a><sup> codepen</sup>
+	<p>UI demonstration of click and drag capability as taught by Wes Bos. Added Pug preprocessor support</p>	
+</div>
+
+</div>
+
+## **English Level** = **B2**
