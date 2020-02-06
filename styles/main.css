@@ -1,0 +1,74 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	line-height: 1.5;
+	font-family: "Georgia","Times New Roman","Tahoma";
+	background-color: rgb(199, 193, 193);
+}
+
+header,
+main {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 0 35px;
+}
+
+header {
+	display:flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.info {
+	margin: 0 auto;
+}
+
+section {
+	border-top: 1px solid #7e1e6e;
+	padding-top: 15px;;
+	margin: 35px auto;
+}
+
+h1 {
+	font-size: 36px;
+	color: #7e1e6e;
+	text-align: center;
+	font-weight: bold;
+}
+
+table{
+	border-collapse: collapse;
+}
+
+td
+{
+	border-top: 1px solid #7e1e6e;
+	border-bottom: 1px solid #7e1e6e;
+	padding: 5px 25px;
+}
+
+a {
+	color: #033c7e;
+}
+
+.contacts {
+	display:flex;
+	justify-content: center;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.contacts .item {
+	display: flex;
+	align-items: center;
+}
+
+.experience-items {
+	display:flex;
+	flex-wrap:wrap;
+}
+
+.experience-items .item {
+	flex:0 50%;
+}
